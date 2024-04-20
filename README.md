@@ -1,2 +1,10 @@
-# newprojecttemplate
-Hands on with the github project management skills
+# Project Title
+Project decription
+
+## Team Members
+- 1
+- 2
+- 3
+- 4
+- 5
+- 
